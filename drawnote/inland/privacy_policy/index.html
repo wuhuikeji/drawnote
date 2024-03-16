@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+        //  = "http://www.baidu.com"
+        urlParams = new URLSearchParams(window.location.search);
+        lang = urlParams.get('lang')
+        console.log(lang)
+        if (lang) {
+            if (lang.startsWith("zh")) {
+                    if (lang.startsWith("zh-cn")) {
+                         window.location.href = "zh"
+                    } else {
+                         window.location.href = "zh-tw"
+                    }
+            } else {
+                window.location.href = "index_default"
+            }
+        } else {
+            window.location.href = "index_default"
+        }
+    </script>
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
