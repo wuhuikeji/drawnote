@@ -28,8 +28,10 @@ We reserve the right to modify or update this disclaimer at any time. Any change
 
 By using this Application, you agree to comply with the above provisions and understand the risks associated with its use. If you have any questions or concerns, please feel free to contact us via the email below for further clarification or assistance.
 
-Date: August 23, 2023
+Release Date: March 14, 2024
 
-DrawNote Team
+Effective Date: March 14, 2024
 
-Contact Email: dragonnestapp@gmail.com
+Last Updated: March 14, 2024
+
+Huizhou Wu Hui Technology Co., Ltd.
