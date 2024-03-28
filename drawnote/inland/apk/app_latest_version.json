@@ -1,0 +1,9 @@
+{
+	"version_code":2403408,
+	"version_name":"5.18.4",
+	"fileSize":"9.8MB",
+	"url":"",
+	"forced":false,
+	"releaseDate":"2024-03-24",
+	"desc":"- 自定义标题颜色\n- 优化笔记加载和保存\n- 适配键盘和鼠标的输入\n- 新增主题色：红色\n- 其他优化"
+}
