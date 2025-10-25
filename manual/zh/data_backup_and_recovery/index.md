@@ -15,4 +15,6 @@
 
 - [管理备份数据](manage_backup_data.md)
 
+- [使用坚果云轻松实现云端备份](jianguoyun_backup.md)
+
 ![](imgs/entrance.png)

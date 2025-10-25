@@ -13,4 +13,6 @@
 
 - [管理備份資料](manage_backup_data.md)
 
+- [使用堅果雲輕鬆實現雲端備份](jianguoyun_backup.md)
+
 ![](imgs/my.png)
