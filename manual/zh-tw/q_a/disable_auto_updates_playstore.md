@@ -1,6 +1,7 @@
 [使用者手冊](/dragonnest/drawnote/manual/zh-tw) > [常見問題](/dragonnest/drawnote/manual/zh-tw/q_a) >
 
-### 國內版本被 Google Play 版本覆蓋安裝
+國內版本被 Google Play 版本覆蓋安裝
+----
 
 我們的應用程式有兩個發佈管道：**國內版本** 和 **Google Play（GP）版本**。  
 兩者在功能上基本一致，但存在以下差異：
