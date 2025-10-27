@@ -1,4 +1,4 @@
-[使用手冊](/dragonnest/drawnote/manual/zh) > [資料備份與還原](/dragonnest/drawnote/manual/zh/data_backup_and_recovery) >
+[使用手冊](/dragonnest/drawnote/manual/zh-tw) > [資料備份與還原](/dragonnest/drawnote/manual/zh-tw/data_backup_and_recovery) >
 
 使用堅果雲輕鬆實現雲端備份
 ---  
