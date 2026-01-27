@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/zh) > [文字笔记](/dragonnest/drawnote/manual/zh/text_note) >
+[用户手册](/drawnote/manual/zh) > [文字笔记](/drawnote/manual/zh/text_note) >
 
 富文本样式
 ---

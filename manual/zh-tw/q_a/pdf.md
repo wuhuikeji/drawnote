@@ -1,4 +1,4 @@
-[使用手冊](/dragonnest/drawnote/manual/zh-tw) > [常見問題](/dragonnest/drawnote/manual/zh-tw/q_a) >
+[使用手冊](/drawnote/manual/zh-tw) > [常見問題](/drawnote/manual/zh-tw/q_a) >
 
 關於PDF 功能
 ---

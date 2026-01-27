@@ -1,4 +1,4 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Carpeta](/dragonnest/drawnote/manual/es/folder) >
+[Manual del usuario](/drawnote/manual/es) > [Carpeta](/drawnote/manual/es/folder) >
 
 Seleccionar varias carpetas o notas
 ---

@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[User Manual](/drawnote/manual/en) > [FAQ](/drawnote/manual/en/q_a) >
 
 How can I prevent accidental touches with my fingers?
 ---

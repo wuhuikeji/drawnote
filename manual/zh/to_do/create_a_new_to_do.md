@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/zh) > [待办事项清单](/dragonnest/drawnote/manual/zh/to_do) >
+[用户手册](/drawnote/manual/zh) > [待办事项清单](/drawnote/manual/zh/to_do) >
 
 新建待办事项
 ---

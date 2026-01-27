@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Dossier](/dragonnest/drawnote/manual/fr/folder) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [Dossier](/drawnote/manual/fr/folder) >
 
 Sélectionner plusieurs dossiers ou notes
 ---

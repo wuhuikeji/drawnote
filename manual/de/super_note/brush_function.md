@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Super-Notiz](/dragonnest/drawnote/manual/de/super_note) >
+[Benutzerhandbuch](/drawnote/manual/de) > [Super-Notiz](/drawnote/manual/de/super_note) >
 
 Stifthalter-Funktion
 ---

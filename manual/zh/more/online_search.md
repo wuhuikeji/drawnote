@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/zh) > [更多](/dragonnest/drawnote/manual/zh/more) >
+[用户手册](/drawnote/manual/zh) > [更多](/drawnote/manual/zh/more) >
 
 在线搜索
 ---

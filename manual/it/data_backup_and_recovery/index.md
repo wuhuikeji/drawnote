@@ -1,4 +1,4 @@
-[Manuale utente](/dragonnest/drawnote/manual/it) >
+[Manuale utente](/drawnote/manual/it) >
 
 Backup e Ripristino Dati
 ---

@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Mehr](/dragonnest/drawnote/manual/de/more) >
+[Benutzerhandbuch](/drawnote/manual/de) > [Mehr](/drawnote/manual/de/more) >
 
 Textmarker-Effekt
 ---

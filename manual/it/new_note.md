@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) >
+[Manuale Utente](/drawnote/manual/it) >
 
 Creare un Nuovo Appunto
 ---

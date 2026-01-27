@@ -1,4 +1,4 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Super Nota](/dragonnest/drawnote/manual/es/super_note) >
+[Manual del usuario](/drawnote/manual/es) > [Super Nota](/drawnote/manual/es/super_note) >
 
 Marcador de Audio
 ---

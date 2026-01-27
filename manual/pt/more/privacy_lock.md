@@ -1,4 +1,4 @@
-[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Mais](/dragonnest/drawnote/manual/pt/more) >
+[Manual do Usuário](/drawnote/manual/pt) > [Mais](/drawnote/manual/pt/more) >
 
 Bloqueio de Privacidade
 ---

@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Data Backup and Recovery](/dragonnest/drawnote/manual/en/data_backup_and_recovery) >
+[User Manual](/drawnote/manual/en) > [Data Backup and Recovery](/drawnote/manual/en/data_backup_and_recovery) >
 
 Auto Backup
 ---

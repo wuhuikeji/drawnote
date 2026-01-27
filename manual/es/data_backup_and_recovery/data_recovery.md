@@ -1,4 +1,4 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Copia de seguridad y recuperación de datos](/dragonnest/drawnote/manual/es/data_backup_and_recovery) >
+[Manual del usuario](/drawnote/manual/es) > [Copia de seguridad y recuperación de datos](/drawnote/manual/es/data_backup_and_recovery) >
 
 Recuperación de datos
 ---

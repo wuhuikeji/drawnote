@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [FAQ](/dragonnest/drawnote/manual/fr/q_a) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [FAQ](/drawnote/manual/fr/q_a) >
 
 À propos de la fonction PDF
 ---

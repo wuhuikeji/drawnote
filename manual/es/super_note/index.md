@@ -1,4 +1,4 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) >
+[Manual del usuario](/drawnote/manual/es) >
 
 Super Nota
 ---

@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) > [Domande Frequenti](/dragonnest/drawnote/manual/it/q_a) >
+[Manuale Utente](/drawnote/manual/it) > [Domande Frequenti](/drawnote/manual/it/q_a) >
 
 Cosa devo fare se non riesco a disegnare sul canvas con il dito?
 ---

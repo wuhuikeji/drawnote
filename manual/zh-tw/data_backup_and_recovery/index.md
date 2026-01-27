@@ -1,4 +1,4 @@
-[使用手冊](/dragonnest/drawnote/manual/zh-tw) >
+[使用手冊](/drawnote/manual/zh-tw) >
 
 資料備份與還原
 ---

@@ -1,4 +1,4 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Más](/dragonnest/drawnote/manual/es/more) >
+[Manual del Usuario](/drawnote/manual/es) > [Más](/drawnote/manual/es/more) >
 
 Exportar/Compartir Notas
 ---

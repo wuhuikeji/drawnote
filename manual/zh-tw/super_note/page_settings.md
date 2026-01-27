@@ -1,4 +1,4 @@
-[使用手冊](/dragonnest/drawnote/manual/zh-tw) > [超級筆記](/dragonnest/drawnote/manual/zh-tw/super_note) >
+[使用手冊](/drawnote/manual/zh-tw) > [超級筆記](/drawnote/manual/zh-tw/super_note) >
 
 頁面設置
 ---

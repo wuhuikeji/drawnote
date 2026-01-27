@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Carte mentale](/dragonnest/drawnote/manual/fr/mind_mapping) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [Carte mentale](/drawnote/manual/fr/mind_mapping) >
 
 Différence entre les nœuds enfants et les nœuds frères
 ---

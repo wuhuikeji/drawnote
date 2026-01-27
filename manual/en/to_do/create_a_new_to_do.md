@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [To-Do List](/dragonnest/drawnote/manual/en/to_do) >
+[User Manual](/drawnote/manual/en) > [To-Do List](/drawnote/manual/en/to_do) >
 
 Create a New To-Do Item
 ---

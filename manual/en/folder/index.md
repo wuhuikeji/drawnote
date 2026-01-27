@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) >
+[User Manual](/drawnote/manual/en) >
 
 Folder
 ---

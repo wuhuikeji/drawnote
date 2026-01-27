@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de) >
+[Benutzerhandbuch](/drawnote/manual/de) >
 
 Super-Notiz
 ---

@@ -1,11 +1,11 @@
-[用户手册](/dragonnest/drawnote/manual/zh) >
+[用户手册](/drawnote/manual/zh) >
 
 
 
 常见问题
 ---
 
-- [如何设置默认背景颜色、字体大小等](../more/creating_templates))
+- [如何设置默认背景颜色、字体大小等](../more/creating_templates)
 
 - [无法用手指绘画](fingers.md)
 

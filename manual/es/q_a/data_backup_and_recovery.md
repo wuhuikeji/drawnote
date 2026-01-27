@@ -1,4 +1,4 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Preguntas Frecuentes](/dragonnest/drawnote/manual/es/q_a) >
+[Manual del Usuario](/drawnote/manual/es) > [Preguntas Frecuentes](/drawnote/manual/es/q_a) >
 
 Acerca de la Copia de Seguridad y Recuperación de Datos
 ---

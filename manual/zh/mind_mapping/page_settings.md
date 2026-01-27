@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/zh) > [思维导图](/dragonnest/drawnote/manual/zh/mind_mapping) >
+[用户手册](/drawnote/manual/zh) > [思维导图](/drawnote/manual/zh/mind_mapping) >
 
 页面设置
 ---

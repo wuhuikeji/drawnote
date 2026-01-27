@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[User Manual](/drawnote/manual/en) > [FAQ](/drawnote/manual/en/q_a) >
 
 What should I do if I can't draw on the canvas with my finger?
 ---

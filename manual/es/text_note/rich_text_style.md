@@ -1,4 +1,4 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Nota de Texto](/dragonnest/drawnote/manual/es/text_note) >
+[Manual del Usuario](/drawnote/manual/es) > [Nota de Texto](/drawnote/manual/es/text_note) >
 
 Estilo de Texto Enriquecido
 ---

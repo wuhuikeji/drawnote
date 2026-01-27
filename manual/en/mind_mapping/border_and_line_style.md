@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
+[User Manual](/drawnote/manual/en) > [Mind Mapping](/drawnote/manual/en/mind_mapping) >
 
 Borders and Line Styles
 ---

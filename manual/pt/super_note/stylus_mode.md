@@ -1,4 +1,4 @@
-[Manual do usuário](/dragonnest/drawnote/manual/pt) > [Super Note](/dragonnest/drawnote/manual/pt/super_note) >
+[Manual do usuário](/drawnote/manual/pt) > [Super Note](/drawnote/manual/pt/super_note) >
 
 Modo de Caneta
 ---

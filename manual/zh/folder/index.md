@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/zh) >
+[用户手册](/drawnote/manual/zh) >
 
 文件夹
 ---

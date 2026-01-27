@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) > [Domande Frequenti](/dragonnest/drawnote/manual/it/q_a) >
+[Manuale Utente](/drawnote/manual/it) > [Domande Frequenti](/drawnote/manual/it/q_a) >
 
 Come posso evitare tocchi accidentali con le dita?
 ---

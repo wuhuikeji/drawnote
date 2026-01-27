@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) > [Cartella](/dragonnest/drawnote/manual/it/folder) >
+[Manuale Utente](/drawnote/manual/it) > [Cartella](/drawnote/manual/it/folder) >
 
 Creare Nuova Cartella
 ---

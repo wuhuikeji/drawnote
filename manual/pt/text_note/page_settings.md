@@ -1,4 +1,4 @@
-[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Nota de Texto](/dragonnest/drawnote/manual/pt/text_note) >
+[Manual do Usuário](/drawnote/manual/pt) > [Nota de Texto](/drawnote/manual/pt/text_note) >
 
 Configurações de Página
 ---

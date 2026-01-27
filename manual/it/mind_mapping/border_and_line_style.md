@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) > [Mappa Mentale](/dragonnest/drawnote/manual/it/mind_mapping) >
+[Manuale Utente](/drawnote/manual/it) > [Mappa Mentale](/drawnote/manual/it/mind_mapping) >
 
 Bordi e Stili delle Linee
 ---

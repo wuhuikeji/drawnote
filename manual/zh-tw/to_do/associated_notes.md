@@ -1,4 +1,4 @@
-[使用手冊](/dragonnest/drawnote/manual/zh-tw) > [待辦事項列表](/dragonnest/drawnote/manual/zh-tw/to_do) >
+[使用手冊](/drawnote/manual/zh-tw) > [待辦事項列表](/drawnote/manual/zh-tw/to_do) >
 
 關聯筆記
 ---

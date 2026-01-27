@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/zh) > [常见问题](/dragonnest/drawnote/manual/zh/q_a) >
+[用户手册](/drawnote/manual/zh) > [常见问题](/drawnote/manual/zh/q_a) >
 
 关于数据备份和恢复
 ---

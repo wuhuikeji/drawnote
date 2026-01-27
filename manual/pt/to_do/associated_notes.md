@@ -1,4 +1,4 @@
-[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Tarefas](/dragonnest/drawnote/manual/pt/to_do) >
+[Manual do Usuário](/drawnote/manual/pt) > [Tarefas](/drawnote/manual/pt/to_do) >
 
 Associar Notas
 ---

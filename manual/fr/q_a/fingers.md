@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [FAQ](/dragonnest/drawnote/manual/fr/q_a) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [FAQ](/drawnote/manual/fr/q_a) >
 
 Que dois-je faire si je ne peux pas dessiner sur la toile avec mon doigt ?
 ---

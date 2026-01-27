@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[User Manual](/drawnote/manual/en) > [Super Note](/drawnote/manual/en/super_note) >
 
 Eraser
 ---

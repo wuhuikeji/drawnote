@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) > [Super Nota](/dragonnest/drawnote/manual/it/super_note) >
+[Manuale Utente](/drawnote/manual/it) > [Super Nota](/drawnote/manual/it/super_note) >
 
 Importa Audio
 ---

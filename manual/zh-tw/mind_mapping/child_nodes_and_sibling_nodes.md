@@ -1,4 +1,4 @@
-[使用手冊](/dragonnest/drawnote/manual/zh-tw) > [心智圖](/dragonnest/drawnote/manual/zh-tw/mind_mapping) >
+[使用手冊](/drawnote/manual/zh-tw) > [心智圖](/drawnote/manual/zh-tw/mind_mapping) >
 
 子節點與兄弟節點的區別
 ---

@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Datenbackup und Wiederherstellung](/dragonnest/drawnote/manual/de/data_backup_and_recovery) >
+[Benutzerhandbuch](/drawnote/manual/de) > [Datenbackup und Wiederherstellung](/drawnote/manual/de/data_backup_and_recovery) >
 
 Automatische Sicherung
 ---

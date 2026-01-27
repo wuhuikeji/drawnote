@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Liste de tâches](/dragonnest/drawnote/manual/fr/to_do) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [Liste de tâches](/drawnote/manual/fr/to_do) >
 
 Créer un nouvel élément de liste de tâches
 ---

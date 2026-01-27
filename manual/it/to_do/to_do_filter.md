@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) > [da fare](/dragonnest/drawnote/manual/it/to_do) >
+[Manuale Utente](/drawnote/manual/it) > [da fare](/drawnote/manual/it/to_do) >
 
 Filtro delle Attività da Fare
 ---

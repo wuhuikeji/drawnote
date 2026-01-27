@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Mind Mapping](/dragonnest/drawnote/manual/de/mind_mapping) >
+[Benutzerhandbuch](/drawnote/manual/de) > [Mind Mapping](/drawnote/manual/de/mind_mapping) >
 
 Unterschied zwischen Unter- und Geschwisterknoten
 ---

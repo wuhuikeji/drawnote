@@ -1,4 +1,4 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Tareas](/dragonnest/drawnote/manual/es/to_do) >
+[Manual del usuario](/drawnote/manual/es) > [Tareas](/drawnote/manual/es/to_do) >
 
 Crear un nuevo elemento de la lista de tareas pendientes
 ---

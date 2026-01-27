@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Note texte](/dragonnest/drawnote/manual/fr/text_note) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [Note texte](/drawnote/manual/fr/text_note) >
 
 Exporter en tant que fichier TXT
 ---

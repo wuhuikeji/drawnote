@@ -1,4 +1,4 @@
-[Manual do Usuário](/dragonnest/drawnote/manual/pt) >
+[Manual do Usuário](/drawnote/manual/pt) >
 
 Criar uma Nova Anotação
 ---

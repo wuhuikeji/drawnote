@@ -1,4 +1,4 @@
-[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Backup e Recuperação de Dados](/dragonnest/drawnote/manual/pt/data_backup_and_recovery) >
+[Manual do Usuário](/drawnote/manual/pt) > [Backup e Recuperação de Dados](/drawnote/manual/pt/data_backup_and_recovery) >
 
 Gerenciar Dados de Backup
 ---

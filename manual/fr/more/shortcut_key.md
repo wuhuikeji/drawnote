@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Plus](/dragonnest/drawnote/manual/fr/more) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [Plus](/drawnote/manual/fr/more) >
 
 Touches de raccourci et fonctionnalités d'entrée de la souris
 ---

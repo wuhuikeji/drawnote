@@ -1,4 +1,4 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Super Nota](/dragonnest/drawnote/manual/es/super_note) >
+[Manual del Usuario](/drawnote/manual/es) > [Super Nota](/drawnote/manual/es/super_note) >
 
 Insertar enlace web
 ---

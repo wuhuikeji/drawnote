@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) > [Altro](/dragonnest/drawnote/manual/it/more) >
+[Manuale Utente](/drawnote/manual/it) > [Altro](/drawnote/manual/it/more) >
 
 Tasti di Scelta Rapida e Funzionalità di Input del Mouse
 ---

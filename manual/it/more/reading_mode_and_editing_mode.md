@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/it) > [Altre Funzionalità](/dragonnest/drawnote/manual/it/more) >
+[Manuale Utente](/drawnote/manual/it) > [Altre Funzionalità](/drawnote/manual/it/more) >
 
 Modalità Lettura e Modalità Modifica
 ---
