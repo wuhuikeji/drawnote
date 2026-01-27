@@ -3,7 +3,7 @@
 More
 ---
 
-- [Creating Templates](creating_templates.md)
+- [Create a template (set default background color, font size, and more)](creating_templates.md)
 
 - [Reading Mode and Editing Mode](reading_mode_and_editing_mode.md)
 

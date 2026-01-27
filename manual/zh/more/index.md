@@ -4,7 +4,7 @@
 
 更多
 ---
-- [创建模板](new_template.md)
+- [创建模板(设置默认背景颜色、字体大小等)](creating_templates)
 
 - [阅读模式和编辑模式](reading_mode_and_editing_mode.md)
 

@@ -3,7 +3,7 @@
 Mais
 ---
 
-- [Criando Modelos](creating_templates.md)
+- [Criar um modelo (definir a cor de fundo padrão, o tamanho da fonte e muito mais)](creating_templates.md)
 
 - [Modo de Leitura e Modo de Edição](reading_mode_and_editing_mode.md)
 

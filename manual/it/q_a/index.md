@@ -3,6 +3,8 @@
 Domande Frequenti
 ---
 
+- [Come impostare il colore di sfondo predefinito, la dimensione del carattere e altro](../more/creating_templates.md)
+
 - [Non Posso Disegnare con le Dita](fingers.md)
 
 - [Non Posso Disegnare con la Penna](stylus.md)

@@ -2,7 +2,7 @@
 
 Mehr
 ---
-- [Vorlagen erstellen](creating_templates.md)
+- [Vorlage erstellen (Standard-Hintergrundfarbe, Schriftgröße usw. festlegen)](creating_templates.md)
 
 - [Lese- und Bearbeitungsmodus](reading_mode_and_editing_mode.md)
 

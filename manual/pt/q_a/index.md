@@ -3,6 +3,8 @@
 Perguntas Frequentes
 ---
 
+- [Como definir a cor de fundo padrão, o tamanho da fonte e muito mais](../more/creating_templates.md)
+
 - [Não Consigo Desenhar com os Dedos](fingers.md)
 
 - [Não Consigo Desenhar com a Caneta](stylus.md)

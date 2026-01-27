@@ -3,6 +3,8 @@
 Frequently Asked Questions
 ---
 
+- [How to set the default background color, font size, and more](../more/creating_templates.md)
+
 - [Cannot Draw with Fingers](fingers.md)
 
 - [Cannot Draw with Stylus](stylus.md)

@@ -3,6 +3,8 @@
 Preguntas Frecuentes
 ---
 
+- [Cómo configurar el color de fondo predeterminado, el tamaño de fuente y más](../more/creating_templates.md)
+
 - [No Puedo Dibujar con los Dedos](fingers.md)
 
 - [No Puedo Dibujar con el Lápiz](stylus.md)

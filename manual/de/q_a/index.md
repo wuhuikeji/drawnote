@@ -3,6 +3,8 @@
 Häufig gestellte Fragen
 ---
 
+- [Wie legt man die Standard-Hintergrundfarbe, Schriftgröße usw. fest?](../more/creating_templates.md)
+
 - [Kann nicht mit Fingern zeichnen](fingers.md)
 
 - [Kann nicht mit Stift zeichnen](stylus.md)

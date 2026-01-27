@@ -3,7 +3,7 @@
 Altre Funzionalità
 ---
 
-- [Creazione di Modelli](creating_templates.md)
+- [Crea un modello (imposta il colore di sfondo predefinito, la dimensione del carattere e altro)](creating_templates.md)
 
 - [Modalità di Lettura e Modalità Modifica](reading_mode_and_editing_mode.md)
 

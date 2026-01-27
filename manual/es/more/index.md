@@ -3,7 +3,7 @@
 Más
 ---
 
-- [Creación de Plantillas](creating_templates.md)
+- [Crear una plantilla (configurar el color de fondo predeterminado, el tamaño de fuente y más)](creating_templates.md)
 
 - [Modo de Lectura y Modo de Edición](reading_mode_and_editing_mode.md)
 
