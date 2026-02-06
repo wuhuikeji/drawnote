@@ -27,6 +27,8 @@ Combina scrittura a mano, disegni, testo, immagini, registrazioni, tabelle, mapp
 
 - [Inserisci Collegamento Web](insert_web_link.md)
 
+- [Inserisci timestamp](Insert_timestamp.md)
+
 - [Lente d'ingrandimento](magnifier.md)
 
 - [Importa Audio](import_audio.md)

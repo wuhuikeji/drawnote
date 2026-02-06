@@ -27,6 +27,8 @@ Kombinieren Sie Handschrift, Zeichnungen, Text, Bilder, Aufnahmen, Tabellen, Min
 
 - [Web-Link einfügen](insert_web_link.md)
 
+- [Zeitstempel einfügen](Insert_timestamp.md)
+
 - [Lupe](magnifier.md)
 
 - [Audio importieren](import_audio.md)

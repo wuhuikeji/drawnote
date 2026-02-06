@@ -5,6 +5,8 @@ Domande Frequenti
 
 - [Come impostare il colore di sfondo predefinito, la dimensione del carattere e altro](../more/creating_templates.md)
 
+- [DrawNote Pro acquistato ma non funziona?](drawnote_pro.md)
+
 - [Non Posso Disegnare con le Dita](fingers.md)
 
 - [Non Posso Disegnare con la Penna](stylus.md)

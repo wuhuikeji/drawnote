@@ -24,6 +24,8 @@ La Super Note combine l'écriture manuscrite, les dessins, le texte, les images,
 
 - [Insérer un Lien Web](insert_web_link.md)
 
+- [Insérer un horodatage](Insert_timestamp.md)
+
 - [Loupe](magnifier.md)
 
 - [Importer de l'Audio](import_audio.md)

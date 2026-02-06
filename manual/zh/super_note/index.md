@@ -28,6 +28,8 @@
 
 - [插入网页链接](insert_web_link.md)
 
+- [插入时间戳](Insert_timestamp.md)
+
 - [导入音频](import_audio.md)
 
 - [录制音频](record_audio.md)

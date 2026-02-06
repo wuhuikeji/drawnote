@@ -5,6 +5,8 @@ Foire aux questions
 
 - [Comment définir la couleur d’arrière-plan par défaut, la taille de police, etc.](../more/creating_templates.md)
 
+- [DrawNote Pro acheté mais ne fonctionne pas ?](drawnote_pro.md)
+
 - [Impossible de dessiner avec les doigts](fingers.md)
 
 - [Impossible de dessiner avec le stylet](stylus.md)

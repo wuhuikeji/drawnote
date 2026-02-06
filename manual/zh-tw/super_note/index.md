@@ -28,6 +28,8 @@
 
 - [插入網頁連結](insert_web_link.md)
 
+- [插入網頁連結](insert_web_link.md)
+
 - [放大鏡](magnifier.md)
 
 - [匯入音訊](import_audio.md)

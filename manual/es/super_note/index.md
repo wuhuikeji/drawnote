@@ -27,6 +27,8 @@ Combina escritura a mano, dibujos, texto, imágenes, grabaciones, tablas, mapas 
 
 - [Insertar Enlace Web](insert_web_link.md)
 
+- [Insertar marca de tiempo](Insert_timestamp.md)
+
 - [Lupa](magnifier.md)
 
 - [Importar Audio](import_audio.md)
