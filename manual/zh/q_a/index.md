@@ -7,6 +7,8 @@
 
 - [如何设置默认背景颜色、字体大小等](../more/creating_templates)
 
+- [DrawNote Pro 已购买但无法使用？](drawnote_pro.md)
+
 - [无法用手指绘画](fingers.md)
 
 - [无法用触控笔绘画](stylus.md)
