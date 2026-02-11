@@ -12,3 +12,5 @@
 - [页面设置](page_settings.md)
 
 - [导出为TXT](export_as_txt.md)
+
+- [插入图片](insert_picture.md)

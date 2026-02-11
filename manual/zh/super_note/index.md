@@ -16,6 +16,8 @@
 
 - [画笔功能](brush_function.md)
 
+- [调色板与自定义颜色](Palette.md)
+
 - [橡皮擦](eraser.md)
 
 - [插入文字](insert_text.md)
