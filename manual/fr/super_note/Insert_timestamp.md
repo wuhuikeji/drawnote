@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [超级笔记](/drawnote/manual/zh/super_note) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [Super Note](/drawnote/manual/fr/super_note) >
 
 Insérer un horodatage
 ---

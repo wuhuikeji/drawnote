@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [超级笔记](/drawnote/manual/zh/super_note) >
+[使用手冊](/drawnote/manual/zh-tw) > [超級筆記](/drawnote/manual/zh-tw/super_note) >
 
 插入時間戳
 操作步驟

@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [超级笔记](/drawnote/manual/zh/super_note) >
+[Manual do Usuário](/drawnote/manual/pt) > [Super Nota](/drawnote/manual/pt/super_note) >
 
 ## Inserir carimbo de data e hora
 

@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [超级笔记](/drawnote/manual/zh/super_note) >
+[Manuale utente](/drawnote/manual/it) > [Super Nota](/drawnote/manual/it/super_note) >
 
 ## Inserisci timestamp
 

@@ -1,5 +1,6 @@
-[用户手册](/drawnote/manual/zh) > [超级笔记](/drawnote/manual/zh/super_note) >
+[User Manual](/drawnote/manual/en) > [Super Note](/drawnote/manual/en/super_note) >
 
+Inse
 ## Insert Timestamp
 
 #### Steps

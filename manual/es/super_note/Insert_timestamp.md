@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [超级笔记](/drawnote/manual/zh/super_note) >
+[Manual del Usuario](/drawnote/manual/es) > [Super Nota](/drawnote/manual/es/super_note) >
 
 ## Insertar marca de tiempo
 
