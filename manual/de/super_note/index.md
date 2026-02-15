@@ -15,6 +15,8 @@ Kombinieren Sie Handschrift, Zeichnungen, Text, Bilder, Aufnahmen, Tabellen, Min
 
 - [Stifthalter-Funktion](brush_function.md)
 
+- [Farbpalette & Benutzerdefinierte Farben](Palette.md)
+
 - [Radiergummi](eraser.md)
 
 - [Text einfügen](insert_text.md)

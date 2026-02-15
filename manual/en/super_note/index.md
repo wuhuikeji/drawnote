@@ -15,6 +15,8 @@ Combine handwriting, drawings, text, images, recordings, tables, mind maps, and 
 
 - [Brush Function](brush_function.md)
 
+- [Color Palette & Custom Colors](Palette.md)
+
 - [Eraser](eraser.md)
 
 - [Insert Text](insert_text.md)

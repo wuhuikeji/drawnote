@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [超级笔记](/drawnote/manual/zh/super_note) >
+[Benutzerhandbuch](/drawnote/manual/de) > [Super-Notiz](/drawnote/manual/de/super_note) >
 
 ## Zeitstempel einfügen
 

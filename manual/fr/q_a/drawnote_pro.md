@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [常见问题](/drawnote/manual/zh/q_a) >
+[Manuel de l'utilisateur](/drawnote/manual/fr) > [FAQ](/drawnote/manual/fr/q_a) >
 
 ## DrawNote Pro acheté mais ne fonctionne pas ?
 
