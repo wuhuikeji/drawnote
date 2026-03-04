@@ -1,16 +1,17 @@
-[User Manual](/drawnote/manual/en) >
+#### Create a New Note
 
-Create a New Note
----
-DrawNote offers a variety of flexible note types to meet different user scenarios, including Super Note, Text Note, and Mind Mapping.
+DrawNote provides you with a variety of note types, making creation and recording more free and efficient:
 
-- Super Note- A comprehensive note that combines handwriting, drawing, text, images, audio recordings, tables, and mind maps. It allows you to fully express your creativity and artistic talent on a flexible canvas.
+* Super Note - Integrates handwriting, drawing, text, images, audio recording, tables, and mind maps into one. The canvas extends infinitely, allowing you to fully express your creativity and inspiration.
 
 
-- Text Note - Focused on text recording and supports rich text settings as well as image insertions, making your notes more diverse and visual.
+* Image Note - Use an image as the background and freely annotate, draw, or add text on it, turning every image into your creative canvas.
 
 
-- Mind Mapping - Helps you quickly capture ideas and organize knowledge, presenting complex concepts in a clear graphical structure.
+* Text Note - Focus on text-based recording, with support for rich text and image insertion to make your content more vivid and diverse.
+
+
+* Mind Map - Clearly present your ideas and knowledge structure, quickly organize complex information, and streamline your thinking process.
 
 #### Steps
 
@@ -24,4 +25,4 @@ On the app's homepage, tap the "+" icon in the bottom right corner. Then, select
 
 - You can also utilize the shortcuts at the top of the menu to quickly access various creation interfaces within Super Note.
 
-![Create a New Note](imgs/new_note2.png)
+![Create a New Note](imgs/new_note.png)
