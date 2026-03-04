@@ -9,3 +9,5 @@ Text Note focuses on text recording, supporting rich text settings. You can adju
 - [Page Settings](page_settings.md)
 
 - [Export as TXT](export_as_txt.md)
+
+- [Insert Picture](insert_picture1.md)

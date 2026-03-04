@@ -12,3 +12,5 @@ Mind mapping helps you quickly capture ideas and organize knowledge, presenting 
 - [Difference Between Child Nodes and Sibling Nodes](child_nodes_and_sibling_nodes.md)
 
 - [Moving Node Positions](move_node_position.md)
+
+- [Insert Picture](insert_picture.md)
