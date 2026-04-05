@@ -15,4 +15,5 @@ Create New Folder
 ![New Folder](imgs/new_folder1.png)
 
 #### Tips
-- You can choose the folder's color or customize the cover when creating or editing a folder.
+
+Tap “Custom Image” to choose a picture from your album as the folder cover.
