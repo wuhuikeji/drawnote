@@ -1,26 +1,23 @@
 [User Manual](/drawnote/manual/en) > [To-Do List](/drawnote/manual/en/to_do) >
 
-Create a New To-Do Item
----
+## New To-Do Item
+
 #### Steps
 
-1. Navigate to the 'To-Do' page.
+1. Go to the "To-Do" page;
 
-2. Click the "+" button.
+2. Tap the "+" button in the bottom-right corner;
 
-3. Enter details such as the title, description, and other relevant information.
+3. Enter the title, description, and other details;
 
-4. Tap the confirmation button on the top left to add a new to-do item.
+4. Tap "Confirm" to complete creation.
 
-![](imgs/create_a_new_to_do1.png)
+![](imgs/new_to_do.png)
 
 #### Tips
-1. To-Do Count - The number of pending tasks is displayed on the bottom tab bar.
 
-2. Pinning a To-Do Item - On the 'To-Do List' page, tap the "pin" button on the top right corner of an item to move important tasks to the top.
+1. Item count: The bottom tab bar shows the number of pending items.
+
+2. Pin item: In the list, tap "Pin" at the top-right corner of an item to move it to the top.
 
 ![](imgs/create_a_new_to_do2.png)
-
-3. Move to the Front - In the 'New To-do' screen, tap the "Move to the Front" button at the bottom to position the task at the very top.
-
-![](imgs/create_a_new_to_do3.png)
