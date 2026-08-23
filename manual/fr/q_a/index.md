@@ -13,6 +13,4 @@ Foire aux questions
 
 - [Comment éviter les erreurs de toucher avec les doigts](mistouch.md)
 
-- [À propos de la fonction PDF](pdf.md)
-
 - [À propos de la sauvegarde et de la récupération des données](data_backup_and_recovery.md)

@@ -13,6 +13,4 @@ Frequently Asked Questions
 
 - [How to Prevent Finger Mistouch](mistouch.md)
 
-- [About PDF Function](pdf.md)
-
 - [About Data Backup and Recovery](data_backup_and_recovery.md)

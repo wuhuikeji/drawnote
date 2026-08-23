@@ -13,6 +13,4 @@ Preguntas Frecuentes
 
 - [Cómo Evitar Toques Erróneos con el Dedo](mistouch.md)
 
-- [Acerca de la Función PDF](pdf.md)
-
 - [Acerca de la Copia de Seguridad y Recuperación de Datos](data_backup_and_recovery.md)

@@ -13,6 +13,4 @@ Häufig gestellte Fragen
 
 - [Wie man versehentliches Berühren mit dem Finger verhindert](mistouch.md)
 
-- [Über die PDF-Funktion](pdf.md)
-
 - [Über Datensicherung und Wiederherstellung](data_backup_and_recovery.md)
