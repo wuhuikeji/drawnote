@@ -3,7 +3,7 @@
 常见问题
 ---
 
-- [如何设置默认背景颜色、字体大小等](../more/creating_templates)
+- [如何设置默认背景颜色、字体大小等](../more/creating_templates.md)
 
 - [DrawNote Pro 已购买但无法使用？](drawnote_pro.md)
 
@@ -18,4 +18,3 @@
 - [关于数据备份和恢复](data_backup_and_recovery.md)
 
 - [中国大陆版本被Google Play版本覆盖安装](disable_auto_updates_playstore.md)
-

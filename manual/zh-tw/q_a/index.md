@@ -5,7 +5,7 @@
 常見問題
 ---
 
-- [如何設定預設背景顏色、字體大小等](../more/creating_templates)
+- [如何設定預設背景顏色、字體大小等](../more/creating_templates.md)
 
 - [DrawNote Pro 已購買但無法使用？](drawnote_pro.md)
 

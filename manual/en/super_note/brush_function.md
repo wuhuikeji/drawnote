@@ -7,28 +7,28 @@ Brush Function
 
 Click the "Brush" button in the toolbar to perform the following actions.
 
-#### 1.Collect Brushes
+#### 1. Collect Brushes
 
 Click the "+" button in the brush collection bar to add different types of brushes.
 
-#### 2.Lock Brush Size
+#### 2. Lock Brush Size
 
 Check the "Lock Size" button to fix the brush size. Even if you zoom in or out on the canvas or page, the brush size will remain unchanged.
 
-#### 3.Dashed Line Effect
+#### 3. Dashed Line Effect
 
 Check the "Dashed Line" button to apply the dashed line brush effect.
 
-#### 4.Adjust Brush Size
+#### 4. Adjust Brush Size
 
 Use the middle slider or the "+" and "-" buttons on both sides to adjust the brush stroke size.
 
 ![](imgs/brush_function.png)
 
-#### 5.Adjust Brush Position
+#### 5. Adjust Brush Position
 In the brush bar, press and hold the brush you want to adjust, then drag it left or right to the desired position and release.
 
-#### 6.Delete Collect Brushes
+#### 6. Delete Collect Brushes
 
 In the brush bar, press and hold the brush you wish to delete, then drag it to the "Trash Can" icon and release to remove that brush.
 

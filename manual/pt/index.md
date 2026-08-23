@@ -1,6 +1,6 @@
 DrawNote
 ------
-Bem-vindo ao DrawNote! Como um aplicativo integrado multifuncional, o DrawNote combina várias características como anotações, escrita, mapeamento mental, listas de tarefas, escrita à mão e desenho. Atendendo a uma ampla gama de usuários em diferentes áreas. Este manual oferece um guia abrangente sobre todas as funcionalidades e operações do DrawNote. Auxiliando você a começar rapidamente.
+Bem-vindo ao DrawNote! O DrawNote é um aplicativo multifuncional que reúne anotações, escrita, mapas mentais, listas de tarefas, escrita à mão e desenho para usuários de diferentes áreas. Este manual apresenta os recursos e as operações mais comuns do DrawNote para ajudar você a começar rapidamente.
 
 ### Manual do Usuário
 
